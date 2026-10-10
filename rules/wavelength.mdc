@@ -4,6 +4,6 @@ alwaysApply: false
 ---
 
 - When the user asks for a flowchart or process diagram of code, use the Wavelength tools instead of writing a diagram by hand.
-- Prefer create_flow_from_graph and update_graph for code. They save the exact graph that you build.
+- Prefer create_flow_from_graph for new code flows, and add_nodes, update_nodes, remove_nodes, add_edges, update_edges, and remove_edges for exact changes. They save the exact graph that you build.
 - Use create_flow_from_text for notes, transcripts, and plain-language descriptions.
 - Export with export_flow (mermaid, svg, drawio, or json) when the user wants a file.
