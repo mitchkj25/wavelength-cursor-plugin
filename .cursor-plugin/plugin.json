@@ -11,5 +11,5 @@
   "repository": "https://github.com/mitchkj25/wavelength-cursor-plugin",
   "license": "MIT",
   "keywords": ["diagram", "flowchart", "process map", "mermaid", "documentation", "architecture", "mcp"],
-  "logo": "assets/logo.svg"
+  "logo": "assets/logo-square.svg"
 }
