@@ -1,0 +1,15 @@
+{
+  "name": "wavelength",
+  "displayName": "Wavelength",
+  "version": "1.0.0",
+  "description": "Map code paths, services, and pipelines from your repo as editable process flow diagrams in Wavelength, then export them as Mermaid for your docs.",
+  "author": {
+    "name": "Wavelength",
+    "email": "support@wavelengthflow.com"
+  },
+  "homepage": "https://wavelengthflow.com/integrations/cursor.html",
+  "repository": "https://github.com/mitchkj25/wavelength-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["diagram", "flowchart", "process map", "mermaid", "documentation", "architecture", "mcp"],
+  "logo": "assets/logo.svg"
+}

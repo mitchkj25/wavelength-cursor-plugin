@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "wavelength": {
+      "url": "https://wavelengthflow.com/api/mcp"
+    }
+  }
+}
